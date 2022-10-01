@@ -166,7 +166,7 @@ form {
   .model-image {
     grid-column: 2/2;
     grid-row: 1/3;
-    height: 100vh;
+    height: 41.43rem;
   }
 
   .picture {
